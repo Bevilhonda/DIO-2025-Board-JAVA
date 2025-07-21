@@ -45,4 +45,4 @@ Este projeto foi inspirado no repositório original da DIO:
 
 **Marcelo Bevilacqua de Andrade**  
 Bootcamp JAVA DIO • 2025  
-[GitHub: AbN13](https://github.com/Bevilhonda)
+[GitHub: Bevilhonda](https://github.com/Bevilhonda)
