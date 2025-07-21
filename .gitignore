@@ -1,0 +1,41 @@
+# Diretórios de build
+/out/
+/build/
+/target/
+
+# Configurações do IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Arquivos gerados
+*.class
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Diretórios do sistema operacional
+Thumbs.db
+ehthumbs.db
+
+# Arquivos do Gradle
+.gradle/
+build/
+
+# Arquivos do Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Arquivos de configuração locais
+local.properties
+
+# Arquivos de cache do editor
+*.cache
+
+# Arquivos de output de testes
+/test-output/
